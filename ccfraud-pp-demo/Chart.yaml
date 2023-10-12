@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: v2023.3.0-3798
+description: A Helm chart for Kubernetes
+icon: https://images.squarespace-cdn.com/content/v1/5fb9935f9e259c7340e1c158/1e38d9b7-df16-416f-abc1-2dd5885deec1/favicon.ico
+name: ccfraud-pp-demo
+type: application
+version: 0.0.1-31b3ffb3-918a-4592-987c-b1a7de815fe6
